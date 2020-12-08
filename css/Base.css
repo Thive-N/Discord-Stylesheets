@@ -1,0 +1,18 @@
+.theme-dark {
+    --background-light: #22262e;
+    --background: #171a1f;
+    --background-alt: #1b1f25;
+    --background-dark: #131519;
+    --text-normal: #d1d1d2;
+    --text-muted: #686a6d;
+    --text-focus: #fff;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-semibold: 500;
+    --font-weight-bold: 700;
+    --box-shadow: 0 4px 9px rgba(0 0 0 / 0.4);
+    --box-shadow-alt: 0 2px 5px rgba(0 0 0 / 0.3);
+    --scrollbar-colour: var(--background-light);
+    --edit-message-box: var(--background-light);
+    --message-background: var(--background-alt);
+  }
