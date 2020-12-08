@@ -1,4 +1,5 @@
-.theme-dark {
+.theme-dark{
+/*
     --background-light: #22262e;
     --background: #171a1f;
     --background-alt: #1b1f25;
@@ -15,4 +16,20 @@
     --scrollbar-colour: var(--background-light);
     --edit-message-box: var(--background-light);
     --message-background: var(--background-alt);
-  }
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-tertiary: transparent;*/
+
+
+    --progress-track-full: rgb(182,184,188);
+    --progress-track-empty: rgb(114,118,125);
+    --progress-thumb: rgb(48,51,56);
+    --background-image: none;
+    --background-color:none;
+    --background-filter:none;
+    --background-markup:#2f3136;
+    --background-embed:#2f3136;
+    --background-modal:#202225;
+    --background-dropdown:rgb(47, 49, 54);
+}
+
